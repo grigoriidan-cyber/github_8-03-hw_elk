@@ -52,12 +52,12 @@
 ---
 
 ### Задание 1 Elasticsearch
-![Elasticsearch](image\1.png)
+![Elasticsearch](image/1.png)
 
 ---
 
 ### Задание 2. Kibana
-![Kibana](image\2.png)
+![Kibana](image/2.png)
 
 ---
 
@@ -66,9 +66,9 @@
 ---
 
 ### Задание 3. Logstash
-![Kibana_Logstash](image\3.png)
+![Kibana_Logstash](image/3.png)
 
 ---
 
 ### Задание 4. Filebeat. 
-![Kibana_Filebeat](image\4.png)
+![Kibana_Filebeat](image/4.png)
