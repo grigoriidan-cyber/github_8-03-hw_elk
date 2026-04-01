@@ -61,10 +61,6 @@
 
 ---
 
-### В Kibana можно увидеть agent.name (container id)
-
----
-
 ### Задание 3. Logstash
 ![Kibana_Logstash](image/3.png)
 
